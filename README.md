@@ -10,3 +10,5 @@ $pytest --html=./reports/xreport.html test_code/test_draft.py
 
 When executing the above command, please take care of YOUR own directory structure in YOUR virtual environment. 
 If YOU find any issue, please do G-search and debug.
+
+The code is NOT verified against PEP-8 statndard.
